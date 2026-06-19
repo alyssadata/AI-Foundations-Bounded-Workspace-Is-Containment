@@ -5,6 +5,9 @@
 **Source-line:** Origin | Continuum  
 **Repository:** Bounded Workspace Is Containment
 
+Release:   
+Date: June 19, 2026
+
 ## Purpose
 
 This repository defines a core boundary within AI Foundations:
