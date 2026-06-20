@@ -28,6 +28,7 @@ A bounded workspace exists to preserve clean use, citation, reference, reading, 
 
 The source-line remains:
 
+**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace**
 **Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment**
 
 ## Core Rule
