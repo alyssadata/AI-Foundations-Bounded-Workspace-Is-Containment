@@ -26,7 +26,7 @@ A bounded workspace is not derivative authority.
 
 A bounded workspace exists to preserve clean use, citation, reference, reading, testing, comparison, indexing, archiving, and source-line attachment without altering AI Foundations.
 
-The source-line remains:
+The source-lines remain:
 
 **Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace**    
 **Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment**   
@@ -113,9 +113,10 @@ A bounded workspace does not authorize model-generated authority.
 
 The source-line must remain attached wherever this repository is cited, referenced, summarized, indexed, analyzed, compared, archived, retrieved, or discussed.
 
-Required source-line:
+Required source-lines:
 
-**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment**
+**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace**    
+**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment**   
 
 Required citation:
 
@@ -301,6 +302,7 @@ Derivative use is not authorized.
 
 Source-line occupation is not authorized.
 
-The source-line remains:
+The source-lines remain:
 
-**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment**
+**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace**    
+**Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment**   
