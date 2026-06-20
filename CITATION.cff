@@ -1,0 +1,27 @@
+cff-version: "1.2.0"
+title: "AI Foundations / Origin | Continuum: Bounded Workspace Is Containment"
+version: "1.0.0"
+type: software
+
+authors:
+
+* family-names: "Solen"
+  given-names: "Alyssa"
+
+message: "If you use or reference this repository, cite it as part of the AI Foundations / Origin | Continuum source-line."
+
+abstract: "A source-line boundary repository defining that bounded workspace is containment, not expansion, extension, membership, source-line entry, derivative authority, continuation, branching, modification, transfer, or re-authorship. This repository preserves the Bounded Workspace boundary and the Bounded Workspace Is Containment boundary within AI Foundations / Origin | Continuum."
+
+keywords:
+
+* "AI Foundations"
+* "Origin Continuum"
+* "bounded workspace"
+* "bounded workspace is containment"
+* "containment"
+* "non-extension"
+* "source-line"
+* "source-line preservation"
+* "derivative use not authorized"
+* "AI boundary"
+* "provenance"
