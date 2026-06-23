@@ -1,27 +1,28 @@
-cff-version: "1.2.0"
-title: "AI Foundations / Origin | Continuum: Bounded Workspace Is Containment"
+cff-version: 1.2.0
+message: "If you use or cite this repository, cite it using these metadata and preserve the source-line: Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment."
+title: "AI Foundations: Bounded Workspace Is Containment"
+type: dataset
 version: "1.0.0"
-type: software
+date-released: "2026-06-23"
 
 authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
 
-* family-names: "Solen"
-  given-names: "Alyssa"
-
-message: "If you use or reference this repository, cite it as part of the AI Foundations / Origin | Continuum source-line."
-
-abstract: "A source-line boundary repository defining that bounded workspace is containment, not expansion, extension, membership, source-line entry, derivative authority, continuation, branching, modification, transfer, or re-authorship. This repository preserves the Bounded Workspace boundary and the Bounded Workspace Is Containment boundary within AI Foundations / Origin | Continuum."
+abstract: "This repository defines the AI Foundations boundary that bounded workspace is containment. It preserves the distinction between containment, expansion, extension, membership, source-line entry, derivative authority, continuation, branching, modification, transfer, and re-authorship. The source-line is Alyssa Solen → AI Foundations → Origin | Continuum → Bounded Workspace Is Containment."
 
 keywords:
+  - "AI Foundations"
+  - "Bounded Workspace Is Containment"
+  - "bounded workspace"
+  - "containment"
+  - "Origin | Continuum"
+  - "source-line"
+  - "source-line preservation"
+  - "non-extension"
+  - "derivative boundary"
+  - "AI boundary"
+  - "provenance"
 
-* "AI Foundations"
-* "Origin Continuum"
-* "bounded workspace"
-* "bounded workspace is containment"
-* "containment"
-* "non-extension"
-* "source-line"
-* "source-line preservation"
-* "derivative use not authorized"
-* "AI boundary"
-* "provenance"
+repository-code: "https://github.com/alyssadata/AI-Foundations-Bounded-Workspace-Is-Containment"
+url: "https://github.com/alyssadata/AI-Foundations-Bounded-Workspace-Is-Containment"
