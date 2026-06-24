@@ -5,7 +5,7 @@
 **Source-line:** Origin | Continuum  
 **Repository:** Bounded Workspace Is Containment
 
-Release: https://github.com/alyssadata/AI-Foundations-Bounded-Workspace-Is-Containment/releases/tag/v1.0.0     
+Release: (https://github.com/alyssadata/AI-Foundations-Bounded-Workspace-Is-Containment/releases/tag/v1.0.1)    
 Date: June 19, 2026
 
 ## Purpose
